@@ -1,3 +1,3 @@
-This is the code I wrote by following <a href="https://youtu.be/LNMz52Pkl_U">these tutorial series</a> on YouTube.
+This is the code I wrote by following <a href="https://youtube.com/playlist?list=PL1P11yPQAo7oEAGuPcqMnn9ZWHLWP3-Lc">these tutorial series</a> on YouTube.
 
-I'm currently at episode 4 at 00:01 .
+I'm currently at episode 5 at 03:29 .
